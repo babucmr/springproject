@@ -1,6 +1,6 @@
 package com.example.uploadingfiles;
 
-import java.io.IOException;
+import IOException;
 import java.util.stream.Collectors;
 
 import org.springframework.beans.factory.annotation.Autowired;
