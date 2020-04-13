@@ -21,9 +21,8 @@ import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import com.example.uploadingfiles.storage.StorageFileNotFoundException;
 import com.example.uploadingfiles.storage.StorageService;
-/*
- * changes
- */
+
+//This is the controller class A
 
 @Controller
 public class FileUploadController {
